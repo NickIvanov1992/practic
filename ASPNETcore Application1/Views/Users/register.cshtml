@@ -1,0 +1,19 @@
+﻿<form method = "post" action = "~/Users/PushUsers">
+    <label> Имя:</label><br/>
+    <input type = "text" name="Firstname"/><br/>
+    <label> Фамилия:</label><br/>
+    <input type = "text" name="Secondname"/><br/>
+    <label> Отчество:</label><br/>
+    <input type = "text" name="Middlename"/><br/>
+    <label> Дата рождения:</label><br/>
+    <input type = "text" name="DateOfBirth"/><br/>
+    <label> Пол:</label><br/>
+    <input type = "text" name="Gender"/><br/>
+    <label> О себе:</label><br/>
+    <input type = "text" name="Info"/><br/>
+    <br/>
+    <input type="submit" asp-action="PushUsers" name="button" value="Зарегистрировать"/> 
+    <input type="submit" asp-action="AllUsers" name="button" value="Список пользователей"/> 
+    
+  </div>
+</form>

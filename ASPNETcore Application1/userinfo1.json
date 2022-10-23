@@ -1,0 +1,5 @@
+{"Firstname":"Николай","Secondname":"Иванов","Middlename":"Анатольевич","DateOfBirth":"12.07.1992","Gender":"мужской","Info":"студент TMS"}
+{"Firstname":"Michael","Secondname":"Schumacher","Middlename":"-","DateOfBirth":"03.01.1969","Gender":"Male","Info":"Formula 1 - Pilot"}
+{"Firstname":"Александр","Secondname":"Пушкин","Middlename":"Сергеевич","DateOfBirth":"06.06.1799","Gender":"мужской","Info":"русский поэт, драматург и прозаик"}
+{"Firstname":"Nick","Secondname":"Ivanov","Middlename":"Anatolyevich","DateOfBirth":"12.07.1992","Gender":"m","Info":"i'm a student"}
+{"Firstname":"Nick","Secondname":null,"Middlename":null,"DateOfBirth":null,"Gender":null,"Info":null}
